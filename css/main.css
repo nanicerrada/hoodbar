@@ -41,7 +41,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 */
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
-@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Betterworks');
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
 
@@ -58,8 +58,8 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 @font-face {
-  font-family: Courgette-Regular;
-  src: url('../fonts/courgette/Courgette-Regular.ttf'); 
+  font-family: betterworks;
+  src: url('../fonts/Betterworks/betterworks.ttf'); 
 }
 
 @font-face {
@@ -137,7 +137,7 @@ p {
   font-weight: 400;
 	font-size: 15px;
 	line-height: 1.7;
-	color: #666666;
+	color: #E7E7E7;
 	margin: 0px;
 }
 
@@ -371,7 +371,7 @@ input[type="date" i] {
   align-items: center;
     background-color: white;
     border: 0px solid transparent;
-    border-radius: 10px !important;
+    border-radius: 2px !important;
     height: 46px;
     outline: none;
 }
@@ -936,8 +936,8 @@ input[type="date" i] {
 
 .slick1-dots li.slick-active button {
     border: 3px solid white;
-    background-color: ##FFCE00;
-} 
+    background-color: #FFCE00;
+    } 
 
 /*[ Caption ]
 -----------------------------------------------------------
@@ -967,26 +967,29 @@ input[type="date" i] {
 ///////////////////////////////////////////////////////////
 */
 .btn1 {
-  background: white;
-  border-radius: 10px;
+  background:lightgray;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  padding: 14px 27px;
 }
 
 .btn1:hover {
   background-color: #FFCE00;
-  color: white;
+  color: black;
 }
 
 /*[ Button3 ]
 ///////////////////////////////////////////////////////////
 */
 .btn3 {
-  background: #111111;
+  background: lightgray;
   border-radius: 10px;
 }
 
 .btn3:hover {
   background-color: #FFCE00;
-  color: white;
+  color: black;
 }
 
 
@@ -994,14 +997,14 @@ input[type="date" i] {
 ///////////////////////////////////////////////////////////
 */
 .btn2 {
-  background-color: white;
-  border-radius: 10px;
-  opacity: 0.9;
+  background-color: black;
+  border-radius: 5px;
+  opacity: 0.8;
 }
 
 .btn2:hover {
   background-color: #FFCE00;
-  color: white;
+  color: black;
 }
 
 
@@ -1364,27 +1367,6 @@ body {padding-right: 0px !important;}
   opacity: 1;
 }
 
-
-
-/*[ Blog ]
-///////////////////////////////////////////////////////////
-*/
-.time-blog {
-  position: absolute;
-  left: 14px;
-  bottom: 11px;
-  background-color: rgba(0,0,0,0.5);
-  padding: 3px 15px;
-
-  font-family: Montserrat;
-  font-weight: 400;
-  font-size: 12px;
-  color: white;
-  border-radius: 4px;
-
-}
-
-
 /*[ Gallery footer ]
 ///////////////////////////////////////////////////////////
 */
@@ -1411,7 +1393,7 @@ body {padding-right: 0px !important;}
 }
 
 .item-gallery-footer:hover:after {
-  background-color: rgba(236,29,37,0.7);
+  background-color:  #FFCE00;
 }
 
 
@@ -1444,7 +1426,7 @@ body {padding-right: 0px !important;}
   margin-bottom: 5px;
   margin-right: 10px;
   margin-left: 10px;
-}
+  }
 
 @media (max-width: 576px) {
   .line-item-mainmenu {
@@ -1511,7 +1493,7 @@ body {padding-right: 0px !important;}
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(236,29,37,0.8);
+  background-color:  #FFCE00;
   opacity: 0;
 }
 

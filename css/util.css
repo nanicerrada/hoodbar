@@ -2957,14 +2957,14 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 700;
 	font-size: 90px;
 	line-height: 1.1;
-	color: white;
+	color: whitesmoke;
 	text-transform: uppercase;
 	letter-spacing: 10px;
 	word-spacing: 10px;
 }
 
 .tit2 {
-	font-family: Courgette;
+	font-family: Betterworks;
 	font-size: 30px;
 	line-height: 1.2;
 	color: #FFCE00;
@@ -2975,7 +2975,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 700;
 	font-size: 50px;
 	line-height: 1.2;
-	color: #222222;
+	color: #f5f5f5;
 	text-transform: uppercase;
 	letter-spacing: 6px;
 }
@@ -2996,7 +2996,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 700;
 	font-size: 50px;
 	line-height: 1.2;
-	color: #222222;
+	color: #f5f5f5;
 	text-transform: uppercase;
 	letter-spacing: 10px;
 	word-spacing: 8px;
@@ -3014,12 +3014,11 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 }
 
 .tit7 {
-	font-family: Poppins;
+	font-family: betterworks;
 	font-weight: 500;
 	font-size: 22px;
 	line-height: 1.2;
-	color: #222222;
-	text-transform: uppercase;
+	color: #FFCE00;
 	letter-spacing: 3px;
 }
 
@@ -3048,7 +3047,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 500;
 	font-size: 24px;
 	line-height: 1.2;
-	color: #222222;
+	color: #FFCE00;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -3057,10 +3056,10 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 -----------------------------------------------------------
 */
 .txt1 {
-	font-family: Courgette;
+	font-family: betterworks;
 	font-size: 60px;
 	line-height: 1.1;
-	color: white;
+	color: #f5f5f5;
 }
 
 .txt2 {
@@ -3068,7 +3067,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 700;
 	font-size: 90px;
 	line-height: 1.1;
-	color: white;
+	color: #f5f5f5;
 	text-transform: uppercase;
 	letter-spacing: 10px;
 }
@@ -3078,7 +3077,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 1.1;
-	color: #FFCE00;
+	color: black;
 	text-transform: uppercase;
 }
 
@@ -3086,17 +3085,16 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 12px;
-	color: #222222;
+	color: black;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 
 .txt5 {
-	font-family: Poppins;
-	font-weight: 500;
+	font-family: betterworks;
+	font-weight: 400;
 	font-size: 22px;
-	color: #333333;
-	text-transform: uppercase;
+	color: #f5f5f5;
 	letter-spacing: 3px;
 }
 
@@ -3104,7 +3102,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 12px;
-	color: white;
+	color: #f5f5f5;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
@@ -3123,7 +3121,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 700;
 	font-size: 12px;
-	color: #999999;
+	color: #f5f5f5;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
@@ -3147,7 +3145,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 1.1;
-	color: white;
+	color: black;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
@@ -3156,7 +3154,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 18px;
-	color: #666666;
+	color: black;
 	line-height: 1.7;
 }
 
@@ -3164,7 +3162,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Poppins;
 	font-weight: 500;
 	font-size: 18px;
-	color: white;
+	color: #f5f5f5;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
@@ -3173,7 +3171,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 13px;
-	color: #999999;
+	color: #f5f5f5;
 	line-height: 1.7;
 }
 
@@ -3189,14 +3187,14 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 12px;
-	color: #555555;
+	color:#f5f5f5;
 }
 
 .txt17 {
 	font-family: Noto+Sans;
 	font-size: 14px;
 	line-height: 1.7;
-	color: #999999;
+	color:#f5f5f5;
 }
 
 .txt18 {
@@ -3228,7 +3226,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Poppins;
 	font-weight: 300;
 	font-size: 18px;
-	color: #333333;
+	color: #f5f5f5;
 	line-height: 1.4;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -3238,7 +3236,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 22px;
-	color: #333333;
+	color: #f5f5f5;
 	line-height: 1.2;
 	text-transform: uppercase;
 }
@@ -3575,7 +3573,7 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 -----------------------------------------------------------
 */
 .bo1 {border: 1px solid #ebebeb;}
-.bo2 {border: 2px solid #d9d9d9;}
+
 .bo4 {border: 4px solid #FFCE00;}
 
 .bo5-b {border-bottom: 1px solid #e6e6e6;}
@@ -3719,7 +3717,7 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
   -ms-transform: scale(1.2);
   -o-transform: scale(1.2);
   transform: scale(1.2);
-  background-color: rgba(236,29,37,0.5);
+  background-color:  #FFCE00;
   color: white;
 }
 
