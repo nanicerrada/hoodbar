@@ -948,11 +948,11 @@ input[type="date" i] {
 
 @media (max-width: 576px) {
   .wrap-content-slide1 .tit1 {
-    font-size: 60px;
+    font-size: 50px;
   }
 
   .wrap-content-slide1 .txt1 {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
