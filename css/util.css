@@ -3245,16 +3245,16 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat;
 	font-weight: 400;
 	font-size: 13px;
-	color: #666666;
+	color:  #f5f5f5;
 	line-height: 1.7;
 }
 
 .txt24 {
 	font-family: Montserrat;
-	font-weight: 400;
+	font-weight: 700;
 	font-size: 15px;
 	line-height: 1.7;
-	color: #FFCE00;
+	color: #f5f5f5;
 }
 
 .txt25 {
